@@ -5,6 +5,8 @@
 This repository contains the implementation code for the paper:
 See Different, Think Better: Visual Variations Mitigating Hallucinations in LVLMs
 
+The dataset is in https://www.modelscope.cn/datasets/oliviadzy/ViHallu-Instruction
+
 ![](images/image.png)
 
 The ViHallu framework consists of two main processes:
